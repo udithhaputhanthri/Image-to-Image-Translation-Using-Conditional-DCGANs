@@ -5,4 +5,4 @@ This repository contains my experience on implementing Image to Image Translatio
 
 Find the medium article here
 
-![Colored-images generated from edge-images in test set](final.JPG)
+[Colored-images generated from edge-images in test set](final.JPG)
