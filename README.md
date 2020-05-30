@@ -5,4 +5,4 @@ This repository contains my experience on implementing Image to Image Translatio
 
 Find the medium article here
 
-![Colored-images for ddge-images in test set](results/for_loss_with_L2/5.JPG)
+![Colored-images generated from edge-images in test set](final.JPG)
